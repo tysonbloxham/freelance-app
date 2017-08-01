@@ -1,4 +1,4 @@
-export class Propsal {
+export class Proposal {
 	constructor(
 		public id?: number,
 		public customer?: string,

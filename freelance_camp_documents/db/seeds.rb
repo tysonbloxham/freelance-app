@@ -6,3 +6,4 @@
 		image_url: 'https://s3.amazonaws.com/devcamp-static/images/freelance-img.jpg'
 	)
 end
+
